@@ -5,5 +5,6 @@ Multi Task Learning : https://github.com/chettkulkarni/advanced_deep_learning/bl
 Meta Learning : https://github.com/chettkulkarni/advanced_deep_learning/blob/master/Assignment4/Assignment4_Meta_learning.ipynb
 
 Optional 
-FOMAML : 
+FOMAML : https://github.com/chettkulkarni/advanced_deep_learning/blob/master/Assignment4/Assignment4_FOMAML.ipynb
 REPTILE : https://github.com/chettkulkarni/advanced_deep_learning/blob/master/Assignment4/Assignment4_Meta_learning.ipynb
+
